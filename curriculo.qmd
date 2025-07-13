@@ -1,0 +1,113 @@
+---
+title: "Fernanda Alves"
+format:
+  html:
+    css: styles.css
+    toc: false
+    self-contained: true
+    embed-resources: true
+    theme: cosmo
+---
+
+**Endereço:** Neoville – Curitiba/PR  
+**Idade:** 22 anos  
+**Naturalidade:** Paraná  
+**Estado civil:** Solteira  
+**Telefone:** (41) 99582-7232  
+**E-mail:** [fernandaalves@ufpr.br](mailto:fernandaalves@ufpr.br)
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar na área financeira e administrativa, com foco em análise de dados, controle de processos, conciliações e desenvolvimento de modelos para otimização empresarial. Busco contribuir com minha organização, conhecimento técnico e visão analítica.
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Universidade Federal do Paraná (UFPR)**  
+*Bacharelado em Estatística / Ciência de Dados*  
+*Cursando o 3º ano*
+
+**Colégio Estadual CEFAM**  
+*Ensino Médio Completo*
+
+**UNEPar – Grupo Chosen**  
+*Curso de Secretariado e Informática – Pacote Office (2015 – 2017)*
+
+---
+
+## 📚 Cursos Complementares
+
+- **Fundamentos de Condução de Veículos Elétricos e Híbridos** – SENAT (2025)  
+- **Banco de Dados – SQL** – UFPR (2023)
+- **Analise de Sobrevivência Aplicada** - UTFPR (2024)
+
+---
+
+## 💼 Experiência Profissional
+
+### Sorvetes Rochinha – Encarregada de Administração (CLT)
+
+**Fev 2020 – Dez 2022**  
+- Responsável por abertura, fechamento e operação da loja  
+- Controle de estoque e caixa  
+- Comunicação com franquia para solução de problemas logísticos  
+- Auxílio na configuração e manutenção do sistema TOTVS, com suporte técnico
+
+### Azure Eventos – Bartender (Freelancer)
+
+**2019 – Atual**  
+- Atuação em casamentos e formaturas  
+- Pagamentos e planilhas de equipe  
+- Organização e limpeza da copa
+
+### Abacazzo – Auxiliar de Cozinha (CLT Temporário)
+
+**2018 – 2019**  
+- Preparação de sucos, lanches e vitaminas  
+- Limpeza e organização da cozinha
+
+---
+
+## 🔧 Habilidades Técnicas
+
+- **Excel:** Intermediário a Avançado  
+- **TOTVS:** Configuração e operação com suporte  
+- **Programação:** Linguagens R e Python  
+- **SQL:** Manipulação de banco de dados  
+- **Pacote Office Completo:** Word, PowerPoint, Excel e Access
+
+---
+
+## 🌐 Idiomas
+
+- **Inglês:** Fluente (fala e escrita)  
+- **Coreano:** Intermediário (comunicação básica)
+
+---
+
+## 💡 Projetos e Voluntariado
+
+**Estatística e Ciência de Dados no Cotidiano**  
+Ensino de matemática básica para adolescentes de escolas públicas  
+*Carga: 12 horas semanais durante 2 semanas*
+
+---
+
+## 🤝 Referências
+
+**Milena – Azure Eventos**  
+Bartender e Coordenação de Copa  
+📞 (41) 99921-9260
+
+**Vitória - Abacazzo**  
+Coordenação de Copa  
+📞 (41) 9928-2307
+
+---
+
+## 👤 Perfil Pessoal
+
+Sou organizada, proativa e tenho facilidade para trabalhar em equipe. Considero-me calma sob pressão, com ótimo relacionamento interpessoal e responsabilidade em tarefas administrativas e financeiras.
